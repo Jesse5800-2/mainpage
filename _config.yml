@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: 早川智将的小窝
+email:zhengnobita2589@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  早川智将的个人主页,或许兼做博客用途.
 twitter_username: NobitaZhen25412
 github_username: Jesse5800-2
 minimal_mistakes_skin: air
@@ -62,18 +60,18 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "如果没有奇迹的话,那就,去创造奇迹吧,少年."
   links:
-    - label: "Website"
+    - label: "旧的纯手作主页"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://jesse5800-2.github.io/kuzuhykw-studio/"
+    - label: "蓝鸟"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://x.com/NobitaZhen22128"
+    - label: "猫鱿鱼"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Jesse5800-2"
+    - label: "比利♂比利"
+      icon: "fab fa-fw fa-bilibili"
+      url: "https://space.bilibili.com/3493291999890101"
 
 footer:
   links:
