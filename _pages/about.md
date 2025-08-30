@@ -1,8 +1,28 @@
 ---
 permalink: /about/
-title: "About"
+title: "关于这家伙"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+早川智将,一个普通的家里蹲废柴男生,就没啥特别的好吧...
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+性格比较内向,非常不擅长人际交往且十分黏朋友,似乎有时候会因此把伙伴们搞烦.不过最起码他确实拥有着一个**愿意一直陪伴他的好兄弟**,以及**一帮一直愿意带他玩的玩伴**.
+
+爱好是绘画,电脑和电子游戏,并且有自己制作基于RPG Maker VX Ace的游戏的打算.平时总是一副很闲的样子,因为似乎有多动症,所以做啥都专注不了.
+
+学习成绩似乎很奇葩,英语随便考考都有一百多,但是高数就没突破过50分,要背的文科也是一个记不住,除了历史.
+
+在学校进行了十年甚至九年的摸鱼练习,绘画功底勉勉强强算过得去,而编剧能力似乎并没什么发展.
+
+喜欢画一些少年少女,_不过这家伙似乎是个少年控,看他最近产出的画作就能窥见一二了_.确实也在蓝色P站上面关注了沙子,Koe之类的大佬.
+
+不知为何非常喜欢音乐游戏,虽说是一位同学在2202年非常巧合地把他拉进去的,目前主玩鸠,小丑布若,滴蜡熊和太(qing)股(tou)之(ru)达(ying)人(bi).
+
+一直心心念念想在以后去体验一下NIMABE SOUND TEAM的几款街机音游,似乎也因此对街机基板和软件也产生了浓厚的兴趣.
+
+对未来很迷茫,不知道要做什么,但是至少希望能够一直和好兄弟在一起,并且和大家保持良好的关系.
+
+至少从目前来看,智将希望能够成为一名**独立游戏开发者**,并且能经济独立和**让好兄弟和好友们开心**.
+
+---
+
+当然,如果你在看这篇奇异搞笑的简介,智将会很开心的.
