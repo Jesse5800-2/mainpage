@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "美味の文本垃圾"
     url: /posts/
-  - title: "Categories"
+  - title: "目录"
     url: /categories/
-  - title: "Tags"
+  - title: "标签"
     url: /tags/
-  - title: "About"
+  - title: "关于这家伙"
     url: /about/
